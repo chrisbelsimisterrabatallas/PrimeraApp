@@ -1,0 +1,5 @@
+Calificación parte 1: 2.4/3
+Calificación parte 2: 2.0/ 3
+Desaparece el botón cuando agrega
+El nuevo curso no aparece en la lista de cursos
+Tarea atrasada!!!
